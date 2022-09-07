@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<div align="center">
+## Hi there 👋
 
 <!--
 **mayo516/mayo516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,20 +19,20 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=%20Hello!&fontColor=ffffff%20&height=300&fontSize=100&color=auto)
 
-<center>
-<center>🤖 main skills 👇</center>
+
+🤖 ###main skills 👇
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="92" height="92" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="92" height="92" /></div>
 
 
-:cat: skills <br><br>
+:cat: ###skills <br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=E34F26"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-:pencil2: studying <br><br>
+:pencil2: ###studying <br><br>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayo516)](https://github.com/mayo516/github-readme-stats)
   
-</center>
+</div>
