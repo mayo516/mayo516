@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="92" height="92" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="92" height="92" /></div>
 
 
-:cat: skills
+:cat: skills <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=E34F26"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScripts-F7DF1E?style=flat-square&logo=JavaScripts&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
 
-:pencil2: studying
+:pencil2: studying <br>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
