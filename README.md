@@ -1,6 +1,6 @@
 
 <div align="center">
-## Hi there 👋
+<h2> Hi there 👋 </h2>
 
 <!--
 **mayo516/mayo516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&text=%20Hello!&fontColor=ffffff%20&height=300&fontSize=100&color=auto)
 
 
-🤖 ###main skills 👇
+  🤖 <h2>main skills 👇</h2>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="92" height="92" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="92" height="92" /></div>
 
