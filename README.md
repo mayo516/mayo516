@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 :pencil2: studying <br><br>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayo516)](https://github.com/mayo516/github-readme-stats)
