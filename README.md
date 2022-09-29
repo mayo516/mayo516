@@ -27,8 +27,11 @@ Here are some ideas to get you started:
  <h2> :cat:skills 👇</h2>
  <br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=E34F26"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=simpleicons=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=simpleicons=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=simpleicons=Bootstrap&logoColor=white"/>
   <h2> :pencil2: studying  👇</h2> <br><br>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
 
