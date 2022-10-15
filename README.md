@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=simpleicons=Bootstrap&logoColor=white"/>
   <h2> :pencil2: studying  👇</h2> <br><br>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayo516)](https://github.com/mayo516/github-readme-stats)
   
