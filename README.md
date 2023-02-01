@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <h2> 🤖 main skills 👇</h2>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="92" height="92" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="92" height="92" /></div>
-
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
  <h2> :cat:skills 👇</h2>
  <br><br>
  I've uesd at least once
@@ -34,8 +34,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=simpleicons=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=simpleicons=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=simpleicons=Bootstrap&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <h2> :pencil2: studying  👇</h2> <br><br>
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
+
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayo516)](https://github.com/mayo516/github-readme-stats)
