@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Hi there 👋 </h2>
+<h2> Pinned된 프로젝트에서 포트폴리오 확인하실 수 있습니다 </h2>
 
 <!--
 **mayo516/mayo516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
