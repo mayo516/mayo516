@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Pinned된 프로젝트에서 포트폴리오 확인하실 수 있습니다 </h2>
+<h2> 안녕하세요. 개발자 김은하입니다. </h2>
 
 <!--
 **mayo516/mayo516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=%20Hello!&fontColor=ffffff%20&height=300&fontSize=100&color=auto)
 
-
- <h2> 🤖 main skills 👇</h2>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="92" height="92" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="92" height="92" /></div>
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
  <h2> :cat:skills 👇</h2>
  <br><br>
  I've uesd at least once
@@ -41,9 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <h2> :pencil2: studying  👇</h2> <br><br>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayo516)](https://github.com/mayo516/github-readme-stats)
   
