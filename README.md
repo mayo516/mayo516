@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> 안녕하세요. 개발자 김은하입니다. </h2>
+<h2> Hello! I'm eunha 🌟 </h2>
 
 <!--
 **mayo516/mayo516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,14 +30,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=simpleicons=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=simpleicons=Bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
-  <br>
+  <br> 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+ <br><br> <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayo516)](https://github.com/mayo516/github-readme-stats)
-  
+ <h2> My Tech Blog 🔥 </h2>
+ <a href="https://devwater.tistory.com/"><img src="https://img.shields.io/badge/tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>  
 </div>
