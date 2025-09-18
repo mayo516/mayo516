@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  <br><br> <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayo516)](https://github.com/mayo516/github-readme-stats)
+
  <h2> My Tech Blog 🔥 </h2>
  <a href="https://devwater.tistory.com/"><img src="https://img.shields.io/badge/tistory-orange?style=flat-square&logo=tistory&logoColor=white"/></a>  
 </div>
